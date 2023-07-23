@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body {
+	padding: 50px;
+}
+
+.prod {
+	display: flex;
+    flex-flow: wrap;
+    width: 1500px;
+    height: 1000px;
+}
+
+.product {
+	width: 200px;
+    height: 100px;
+    margin: 80px;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+.product_name {
+	text_align: center;
+}
+
+.product_price {
+	text_align: center;
+	align-items: center;
+}
+
+.link {
+	text-align:center;
+}
+
