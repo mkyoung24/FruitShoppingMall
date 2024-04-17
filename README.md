@@ -1,7 +1,7 @@
 # FruitShoppingMall
 
 ## :calendar: 진행 기간 
-- 2022. 11 ~ 2022. 12
+- 2022년 11월 ~ 2022년 12월
  
 ## :page_facing_up: 프로젝트 목적
 - JSP를 활용한 MVC 패턴 및 CRUD 숙련도 향상을 위함
