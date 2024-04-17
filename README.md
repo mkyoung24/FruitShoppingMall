@@ -17,11 +17,11 @@
 
 ## :pushpin: 프로젝트 구현 서비스 및 실행화면
 1. **회원가입 및 로그인, 로그아웃**
-![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/d10e2359-ded8-4d72-84b2-9dc7e9ced677)
-![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/e806bf70-d2dd-4187-8df2-3572b7d5655c)
-![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/5ff7a3e2-1e03-447b-adb5-782628d62dcf)
-![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/fe4e54af-ad8f-4b83-bdb1-50fc46537566)
-![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/a31f2f5e-ba9b-4372-add1-cf8905d98416)
-![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/9b795b42-837f-4238-808a-584cd5411645)
+- ![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/d10e2359-ded8-4d72-84b2-9dc7e9ced677)
+- ![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/e806bf70-d2dd-4187-8df2-3572b7d5655c)
+- ![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/5ff7a3e2-1e03-447b-adb5-782628d62dcf)
+- ![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/fe4e54af-ad8f-4b83-bdb1-50fc46537566)
+- ![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/a31f2f5e-ba9b-4372-add1-cf8905d98416)
+- ![image](https://github.com/mkyoung24/FruitShoppingMall/assets/103173521/9b795b42-837f-4238-808a-584cd5411645)
 
 2. **회원정보 수정 및 탈퇴**
